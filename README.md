@@ -14,9 +14,7 @@ Working as a software engineer 👨‍💻 , having a keen interest in full stac
 - Competative coding
 - Game Developement
 - UI/UX designing
-  <br/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-  </br>
+
 
 **About Me:**
 
