@@ -5,7 +5,11 @@
 
 <br />
 
-Working as a software engineer 👨‍💻 , having a keen interest in full stack web developement and competative coding 💻 trying to learn and improve myself 🚀.
+• 💻 Software Engineer with Highly skilled in Problem Solving with a proven history of flawless development 🕹.
+• 👮 Experience in working with end to end lifecycle of application development 🛠.
+• 💎 Strong and passionate team player who can thrive under pressure with limited supervision .
+• 🧰 Proficient in Python, Nodejs, React Js and Typescript . 
+• 🏆 Awarded with Star of the quarter in 2020.
 <br/>
 
 ## Technologies I am interested in :computer:
