@@ -33,7 +33,7 @@
 **Languages and Tools:**  
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-<code><img height="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrendytechz.com%2Fnode-js%2F&psig=AOvVaw2KPv7-1r5sKb9kfSZ8G9nc&ust=1617482373986000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC--sW14O8CFQAAAAAdAAAAABAJ"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
