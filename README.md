@@ -31,6 +31,7 @@
 - 📝[Resume](https://drive.google.com/file/d/1jCpkKPJilGmyw8htOVcMzIpCAoiBcEVe/view?usp=sharing)
   
 **Languages and Tools:**  
+
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
