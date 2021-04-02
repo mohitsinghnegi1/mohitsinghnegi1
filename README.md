@@ -31,7 +31,7 @@
 - 📝[Resume](https://drive.google.com/file/d/1jCpkKPJilGmyw8htOVcMzIpCAoiBcEVe/view?usp=sharing)
   
 **Languages and Tools:**  
-
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -48,3 +48,4 @@
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
 <code><img height="35" src="https://material-ui.com/static/logo.png"></code>
+
