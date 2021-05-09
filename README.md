@@ -67,6 +67,6 @@
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-4-569303.png"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/adobe-user-experience-2822915-2350212.png"></code>
 
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true&theme=radical)
+![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=melanieshi0120&show_icons=true&theme=radical)
 
 
