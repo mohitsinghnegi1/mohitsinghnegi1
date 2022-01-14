@@ -39,9 +39,9 @@
 - 💬 Let's talk about technologies and stuffs.
 - 👨🏽‍💼 Improving my Data structures & Algorithms and Web and Game development skill.
 - 🙍 Open Source Contributor
-- ⚡️ Visit my portfolio here: [Mohit Singh Negi](https://mohitsinghnegi1.github.io/my-portfolio/)
+<!-- - ⚡️ Visit my portfolio here: [Mohit Singh Negi](https://mohitsinghnegi1.github.io/my-portfolio/) -->
 - 📫 Mail me at: mohitsin3232@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1jCpkKPJilGmyw8htOVcMzIpCAoiBcEVe/view?usp=sharing)
+<!-- - 📝[Resume](https://drive.google.com/file/d/1jCpkKPJilGmyw8htOVcMzIpCAoiBcEVe/view?usp=sharing) -->
   
 **Languages and Tools:**  
 
