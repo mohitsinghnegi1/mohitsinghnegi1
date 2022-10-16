@@ -69,4 +69,6 @@
 
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitsinghnegi1&show_icons=true&theme=radical)
 
+[![@mohitsinghnegi1's Holopin board](https://holopin.me/mohitsinghnegi1)](https://holopin.io/@mohitsinghnegi1)
+
 
