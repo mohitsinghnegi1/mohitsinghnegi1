@@ -18,6 +18,7 @@
 - Competative coding
 - Game Developement
 - UI/UX designing
+- System Architecture
 
 #### I am best in ❤
 
